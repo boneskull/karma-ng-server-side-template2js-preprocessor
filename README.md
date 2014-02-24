@@ -85,5 +85,5 @@ See [issues](https://github.com/boneksull/karma-ng-server-side-template2js-prepr
 
 ## Author
 
-[Christopher Hiller <chiller@badwing.com>](https://boneskull.github.io)
+[Christopher Hiller](https://boneskull.github.io) <chiller@badwing.com>
 
