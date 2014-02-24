@@ -1,7 +1,7 @@
 {
   "name": "karma-ng-server-side-template2js-preprocessor",
   "version": "0.1.0",
-  "description": "Scans HTML-based server side template files for AngularJS templates and converts them to JS for use in unit tests",
+  "description": "Karma preprocessor to scan HTML-based server side templates for embedded AngularJS templates, and convert the AngularJS templates to JS for use in unit tests.",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
