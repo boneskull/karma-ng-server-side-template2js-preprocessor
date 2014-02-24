@@ -1,0 +1,10 @@
+(function(module) {
+  try {
+    module = angular.module('%s');
+  } catch (e) {
+    module = angular.module('%s', []);
+  }
+  module.run(function($templateCache) {
+%s
+  });
+})();

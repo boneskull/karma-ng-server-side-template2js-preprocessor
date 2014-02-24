@@ -1,0 +1,31 @@
+{
+  "name": "karma-ng-server-side-template2js-preprocessor",
+  "version": "0.1.0",
+  "description": "Scans HTML-based server side template files for AngularJS templates and converts them to JS for use in unit tests",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/boneskull/karma-ng-server-side-template2js-preprocessor.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "angularjs",
+    "angular",
+    "html2js",
+    "server-side",
+    "template"
+  ],
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "author": "Christopher Hiller <chiller@badwing.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boneskull/karma-ng-server-side-template2js-preprocessor/issues"
+  },
+  "homepage": "https://github.com/boneskull/karma-ng-server-side-template2js-preprocessor",
+  "dependencies": {
+    "cheerio": "~0.13.1"
+  }
+}

@@ -1,0 +1,3 @@
+angular.module('%s', []).run(function($templateCache) {
+%s
+});
