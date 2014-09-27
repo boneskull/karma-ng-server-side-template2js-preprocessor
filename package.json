@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/boneskull/karma-ng-server-side-template2js-preprocessor",
   "dependencies": {
-    "cheerio": "~0.13.1"
+    "cheerio": "^0.17.0"
   }
 }
