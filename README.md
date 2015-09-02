@@ -52,7 +52,7 @@ ngSst2JsPreprocessor: {
 }
 ```
 
-It will produce a module named `myTemplates` which can then be loaded by your unit tests.  Templates `bar` and `baz` will live in your `[$templateCache](http://docs.angularjs.org/api/ng/service/$templateCache)` service.
+It will produce a module named `myTemplates` which can then be loaded by your unit tests.  Templates `bar` and `baz` will live in your [`$templateCache`](http://docs.angularjs.org/api/ng/service/$templateCache) service.
 
 They can then be used like so:
 
@@ -85,5 +85,5 @@ See [issues](https://github.com/boneksull/karma-ng-server-side-template2js-prepr
 
 ## Author
 
-[Christopher Hiller](https://boneskull.github.io) <chiller@badwing.com>
+[Christopher Hiller](https://boneskull.com) <boneskull@boneskull.com>
 
